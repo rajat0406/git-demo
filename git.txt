@@ -2,3 +2,4 @@ This is the git demo file
 update the git demo file
 new update
 /* new branch created*/
+/* branch 2 created*/
